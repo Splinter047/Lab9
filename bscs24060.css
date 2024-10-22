@@ -1,0 +1,10 @@
+.first-div{
+    height: 500px;
+    width: 500px;
+    background-color: beige;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
